@@ -1,4 +1,4 @@
-#Jay Doshi
+#Jay Doshi and Zachary Ip
 #12/2/19
 #Program to create the game Thwart-Omega
 
