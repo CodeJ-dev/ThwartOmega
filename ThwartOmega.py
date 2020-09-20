@@ -1,4 +1,4 @@
-#Jay Doshi Mong-En ip
+#Jay Doshi
 #12/2/19
 #Program to create the game Thwart-Omega
 
