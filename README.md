@@ -1,6 +1,6 @@
 # ThwartOmega
 
-Set up:
+Set Up:
 
 TwarthOmega.py must be in the same folder where all png files realted to TwarthOmega.py are. This can be done by adding TwarthOmega.py into the pictures folder.
 
